@@ -1,7 +1,7 @@
 # ML-Regression-Model-1
 ML model of Boston House price prediction using various models and then using ensemble model.
 
-CRIM: Per capita crime rate by town
+CRIM: Per capita crime rate by town \
 ZN: Proportion of residential land zoned for lots over 25,000 sq. ft
 INDUS: Proportion of non-retail business acres per town
 CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
